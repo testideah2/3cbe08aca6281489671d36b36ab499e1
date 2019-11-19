@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.shch.app"
         versionCode = "10"
-        version     = "1.5.0">
+        version     = "1.6.0">
 
     <name>ТЕСТ. shch_14</name>
 
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/34aa1c6f364b73ebb7d66f6b7a67cb34.png" density="ldpi" />
-        <icon src="res/android/icon/767f426e2c29ef3b0c9179ce32122bbf.png" density="mdpi" />
-        <icon src="res/android/icon/f499a9342e1da841da0b2f640f78fe64.png" density="hdpi" />
-        <icon src="res/android/icon/25157bb16fbc480f11b1949ce6e34285.png" density="xhdpi" />
-        <icon src="res/android/icon/fd1e93713c65844233afeed74c1cda48.png" density="xxhdpi" />
-        <icon src="res/android/icon/03964458e0b80929d5fba57d4288856a.png" density="xxxhdpi" />
+        <icon src="res/android/icon/532acd0cf543c8491810da0cde79ec35.png" density="ldpi" />
+        <icon src="res/android/icon/07859b99199900701e46d0ec4a84bf44.png" density="mdpi" />
+        <icon src="res/android/icon/824fa2f91249c3cec79645386f71ac9a.png" density="hdpi" />
+        <icon src="res/android/icon/bf56e1457d9a07426babe261fca70f95.png" density="xhdpi" />
+        <icon src="res/android/icon/9d5274ce10651a28969e174f76af13c9.png" density="xxhdpi" />
+        <icon src="res/android/icon/d99b854f8706f3749a0535a5fe45f6af.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/43a44ef423c0d7eb2b0a4eba6a9957aa.png" density="port-hdpi"/>
         <splash src="res/android/screen/344d05bd908d90b290947d843ba29fa3.png" density="port-ldpi"/>
