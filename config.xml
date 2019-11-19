@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "shch14"
+        id          = "ru.shch.app"
         versionCode = "10"
-        version     = "1.4.0">
+        version     = "1.5.0">
 
-    <name>ТЕСТ. shch14</name>
+    <name>ТЕСТ. shch_14</name>
 
     <description>
         Приложение шч14
